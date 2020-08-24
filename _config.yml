@@ -1,11 +1,10 @@
 # Site settings
 title:          nowhere to escape
 description:    "404 is not found"
-baseurl:        "/tale"
 url:            "https://inatej.github.io"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+#google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
